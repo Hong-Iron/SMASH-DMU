@@ -1,0 +1,115 @@
+{
+  "code": "DMU",
+  "title": "SMASH DMU",
+  "school": "동양미래대",
+  "fullName": "동양미래대학교",
+  "campusName": "동양미래대학교",
+  "tagline": "동양미래대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동양미래대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동양미래대학교 3D 화면과 SMASH DMU 제목",
+  "url": "https://hong-iron.github.io/SMASH-DMU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 249854005
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.501686,
+        126.8661281
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 농구장 서쪽 임야(산59-1)에 그려진 윤곽인데 사진에서 거의 다 나무숲이고, 대장 기록에도 이름, 층수, 용도가 하나도 없다."
+    },
+    {
+      "at": [
+        37.5018756,
+        126.8667821
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 6호관 북쪽 끝 옆의 붉은 보도와 빈터 위에 그려진 윤곽이라 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        37.5017694,
+        126.8661839
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 농구장 북서쪽 임야(산59-1)의 나무숲 위에 그려진 윤곽이라 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        37.5001624,
+        126.8673107
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 부지와 다른 길가 지번(고척동 62-134)에 1972년에 지은 3층짜리 상가(근린생활시설)이다."
+    }
+  ],
+  "look": {
+    "대학본부동": {
+      "style": "ribbon",
+      "wall": "#b8a18c",
+      "glass": "#35504f",
+      "frame": "#5e5954"
+    },
+    "제1호관": {
+      "style": "ribbon",
+      "wall": "#c2ac9a",
+      "glass": "#2f4a48",
+      "frame": "#5e5954"
+    },
+    "제2호관": {
+      "style": "brick",
+      "wall": "#8a4a3d",
+      "glass": "#4d6a6a",
+      "frame": "#b9bcbc"
+    },
+    "제3호관": {
+      "style": "ribbon",
+      "wall": "#e8ad8b",
+      "glass": "#4f6d68",
+      "frame": "#b4bab7"
+    },
+    "제4호관": {
+      "style": "stone",
+      "wall": "#5d6b78",
+      "glass": "#4d6466",
+      "frame": "#e2e4e2"
+    },
+    "제5호관": {
+      "style": "brick",
+      "wall": "#95503f",
+      "glass": "#5f8a80",
+      "frame": "#c9ccc8"
+    },
+    "제6호관": {
+      "style": "glass",
+      "wall": "#cfcdcb",
+      "glass": "#4f5552",
+      "frame": "#8e9294"
+    },
+    "제7호관": {
+      "style": "tan",
+      "wall": "#ddd4b2",
+      "glass": "#46666b",
+      "frame": "#c8ccc8"
+    },
+    "8호관": {
+      "style": "ribbon",
+      "wall": "#d8d6d4",
+      "glass": "#3e3f44",
+      "frame": "#8c8d92"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
