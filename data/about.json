@@ -1,0 +1,34 @@
+{
+ "region": "서울 구로구",
+ "nameEn": "Dongyang Mirae University",
+ "added": "2026-10-27T21:00",
+ "rank": 278,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HANYOUNG",
+   "campus": "서울한영대학교",
+   "km": 1.5
+  },
+  {
+   "code": "SKHU",
+   "campus": "성공회대학교",
+   "km": 4.0
+  },
+  {
+   "code": "YUHAN",
+   "campus": "유한대학교",
+   "km": 4.4
+  },
+  {
+   "code": "CUK",
+   "campus": "가톨릭대학교 성심교정",
+   "km": 6.0
+  },
+  {
+   "code": "BUCHEON-SOSA",
+   "campus": "부천대학교 소사캠퍼스",
+   "km": 6.9
+  }
+ ]
+}
